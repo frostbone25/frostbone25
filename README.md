@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name's David Matos, 
+My name's David Matos!
 
-I am an enthusiastic and self-motivated individual with a passion for programming, design, and story.
+I am an enthusiastic and self-motivated individual with a passion for programming, design, and story. I am currently working as an XR Software Engineer :D
 
 - 🔭 I’m currently working on my github
 - 🌱 I’m currently learning React.js and C++
