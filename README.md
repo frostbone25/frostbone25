@@ -18,11 +18,16 @@ I am an enthusiastic and self-motivated individual with a passion for programmin
 Check out some of my projects!
 
 ### Graphics Programming
-- 
+- **[Unity Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)**
+- **[Unity Analytical Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows)**
+- **[Unity Specular Probes](https://github.com/frostbone25/Unity-Specular-Probes)**
+- **[Unity Cubemap Fog](https://github.com/frostbone25/Unity-Cubemap-Fog)**
+- **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows) *(Based off [ozlael's](https://github.com/ozlael/PlannarShadowForUnity) implementation)*
 
 ### Reverse Engineering
 - **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
 - **[RESET .dat Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
-- **[.dds to .d3dtx Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
+- **[Telltale .dds to .d3dtx Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
 - **[Telltale .wbox Unity Editor](https://github.com/Telltale-Modding-Group/Unity_WBOX_Editor)**
+- **[Telltale .wbox Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
 - **[Telltale .imap Editor](https://github.com/Telltale-Modding-Group/IMAP-Editor)**
