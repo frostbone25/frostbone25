@@ -19,7 +19,7 @@ Check out some of my projects!
 
 ### Graphics Programming
 - **[Unity Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)**
-- **[Unity Analytical Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows)**
+- **[Unity Capsule Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows)**
 - **[Unity Specular Probes](https://github.com/frostbone25/Unity-Specular-Probes)**
 - **[Unity Cubemap Fog](https://github.com/frostbone25/Unity-Cubemap-Fog)**
 
