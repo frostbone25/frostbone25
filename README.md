@@ -11,6 +11,8 @@ I am an enthusiastic and self-motivated individual with a passion for programmin
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostbone25&layout=compact&card_width=100) -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=frostbone25"</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=frostbone25&hide=contribs&include_all_commits=true&count_private=true) 
 
 [![](https://github-profile-trophy.vercel.app/?username=frostbone25&rank=-C,-B&margin-w=4)](https://github.com/frostbone25)
