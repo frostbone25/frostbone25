@@ -23,6 +23,7 @@ Check out some of my projects!
 - **[Unity Specular Probes](https://github.com/frostbone25/Unity-Specular-Probes)**
 - **[Unity Cubemap Fog](https://github.com/frostbone25/Unity-Cubemap-Fog)**
 - **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows)** ***(Originally by [ozlael](https://github.com/ozlael))***
+- **[Unity Improved Box Projected Reflections](https://github.com/frostbone25/Unity-Improved-Box-Projected-Reflections/tree/main)**
 
 ### Reverse Engineering
 - **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
