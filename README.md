@@ -26,12 +26,12 @@ Check out some of my projects!
 - **[Unity Improved Box Projected Reflections](https://github.com/frostbone25/Unity-Improved-Box-Projected-Reflections/tree/main)**
 
 ### Reverse Engineering
-- **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
-- **[RESET .dat Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
 - **[Telltale .dds to .d3dtx Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
 - **[Telltale .wbox Unity Editor](https://github.com/Telltale-Modding-Group/Unity_WBOX_Editor)**
 - **[Telltale .wbox Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
 - **[Telltale .imap Editor](https://github.com/Telltale-Modding-Group/IMAP-Editor)**
+- **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
+- **[RESET .dat Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
 
 ### Restoration
 - **[Unity 2.6 FPS Tutorial Restored](https://github.com/frostbone25/Unity-FPS-Tutorial-Restored)**
