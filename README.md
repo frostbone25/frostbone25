@@ -36,8 +36,9 @@ Check out some of my projects!
 - **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
 - **[RESET .dat Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
 
-### Restoration
+<!--### Restoration
 - **[Unity 2.6 FPS Tutorial Restored](https://github.com/frostbone25/Unity-FPS-Tutorial-Restored)**
+-->
 
 <!--
 - | Project  | Screenshots |
