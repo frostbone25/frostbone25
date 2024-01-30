@@ -2,7 +2,9 @@
 
 My name's David Matos!
 
-I am an enthusiastic and self-motivated individual with a passion for programming, design, and story. I am currently working as an XR Software Engineer.
+Extended Reality (XR) Software Engineer with over six years of experience, specializing in the conceptualization and development of immersive and interactive applications within the Unity engine. Proficient in object-oriented languages, including C# and Java. Driven by an unwavering passion for advancing gaming, virtual, and augmented reality, I am known for my enthusiasm and self-motivation. Dedicated to pushing the boundaries of technology, striving to deliver cutting-edge solutions. 
+
+Furthermore, proficient in 3D Modeling and Rendering, leveraging Autodesk Maya. With a wealth of experience in Video Production, the Adobe Creative Suite is utilized for executing Visual Effects and Motion Graphics using After Effects, conducting precise Digital Video Editing with Premiere Pro, and engaging in refined Visual Design through Photoshop.
 
 - 🔭 I’m currently working on my github
 - 🌱 I’m currently learning React.js and C++
