@@ -6,8 +6,7 @@ Extended Reality (XR) Software Engineer with over six years of experience, speci
 
 Furthermore, proficient in 3D Modeling and Rendering, leveraging Autodesk Maya. With a wealth of experience in Video Production, the Adobe Creative Suite is utilized for executing Visual Effects and Motion Graphics using After Effects, conducting precise Digital Video Editing with Premiere Pro, and engaging in refined Visual Design through Photoshop.
 
-- 🔭 I’m currently working on my github
-- 🌱 I’m currently learning React.js and C++
+- 🔭 I’m currently refreshing my C++, by building a custom renderer using OpenGL.
 - 👋 I'm always happy to collaborate!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-matos-a11a04187/)
 
