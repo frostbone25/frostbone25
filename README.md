@@ -31,12 +31,13 @@ Check out some of my projects!
 - **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows)** ***(Originally by [ozlael](https://github.com/ozlael))***
 
 ### Reverse Engineering
-- **[Telltale .dds to .d3dtx Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
-- **[Telltale .wbox Unity Editor](https://github.com/Telltale-Modding-Group/Unity_WBOX_Editor)**
-- **[Telltale .wbox Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
-- **[Telltale .imap Editor](https://github.com/Telltale-Modding-Group/IMAP-Editor)**
-- **[Toradora Portable .dat Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
-- **[RESET .dat Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
+- **[Telltale Mesh (.d3dmesh) Converter](https://github.com/Telltale-Modding-Group/D3DMESH-Converter)**
+- **[Telltale Texture (.d3dtx) Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
+- **[Telltale WalkBox (.wbox) Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
+- **[Telltale WalkBox (.wbox) Unity Editor](https://github.com/Telltale-Modding-Group/Unity_WBOX_Editor)**
+- **[Telltale InputMapping (.imap) Editor](https://github.com/Telltale-Modding-Group/IMAP-Editor)**
+- **[Toradora Portable Archive (.dat) Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
+- **[RESET Archive (.dat) Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
 
 <!--### Restoration
 - **[Unity 2.6 FPS Tutorial Restored](https://github.com/frostbone25/Unity-FPS-Tutorial-Restored)**
