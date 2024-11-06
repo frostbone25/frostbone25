@@ -30,7 +30,7 @@ Check out some of my projects!
 - **[Unity Shader Templates](https://github.com/frostbone25/Unity-Shader-Templates)**
 - **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows)** ***(Originally by [ozlael](https://github.com/ozlael))***
 
-### Reverse Engineering
+### Modding
 - **[Telltale Mesh (.d3dmesh) Converter](https://github.com/Telltale-Modding-Group/D3DMESH-Converter)**
 - **[Telltale Texture (.d3dtx) Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
 - **[Telltale WalkBox (.wbox) Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
