@@ -39,6 +39,7 @@ Check out some of my projects!
 - **[Toradora Portable Archive (.dat) Extractor](https://github.com/frostbone25/Toradora-Portable-Dat-Extractor)**
 - **[RESET Archive (.dat) Extractor](https://github.com/frostbone25/RESET-dat-extractor)**
 - **[Final Fantasy 7 Remake Intergade PC UMAP Extractor](https://github.com/frostbone25/FF7R-UMAP)**
+- **[Telltale's The Walking Dead Relight Mod](https://github.com/Telltale-Modding-Group/TTDS-Relighting)**
 
 <!--### Restoration
 - **[Unity 2.6 FPS Tutorial Restored](https://github.com/frostbone25/Unity-FPS-Tutorial-Restored)**
