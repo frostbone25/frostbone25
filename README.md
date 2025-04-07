@@ -20,13 +20,13 @@ Check out some of my projects!
 
 ### Graphics Programming
 - **[Unity Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)**
+- **[Unity Voxel Tracer](https://github.com/frostbone25/Unity-Voxel-Tracer)**
 - **[Unity Capsule Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows)**
 - **[Unity Improved Box Projected Reflections](https://github.com/frostbone25/Unity-Improved-Box-Projected-Reflections/tree/main)**
-- **[Unity Box Projected Lighting](https://github.com/frostbone25/Unity-Box-Projected-Lighting)**
-- **[Unity Voxel Tracer](https://github.com/frostbone25/Unity-Voxel-Tracer)**
-- **[Unity Specular Probes](https://github.com/frostbone25/Unity-Specular-Probes)**
-- **[Unity Cubemap Fog](https://github.com/frostbone25/Unity-Cubemap-Fog)**
 - **[Unity Cubemap Rendering](https://github.com/frostbone25/Unity-Cubemap-Rendering)**
+- **[Unity Specular Probes](https://github.com/frostbone25/Unity-Specular-Probes)**
+- **[Unity Box Projected Lighting](https://github.com/frostbone25/Unity-Box-Projected-Lighting)**
+- **[Unity Cubemap Fog](https://github.com/frostbone25/Unity-Cubemap-Fog)**
 - **[Unity Offline Depth Of Field](https://github.com/frostbone25/Unity-Offline-Depth-Of-Field)**
 - **[Unity Shader Templates](https://github.com/frostbone25/Unity-Shader-Templates)**
 - **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows)** ***(Originally by [ozlael](https://github.com/ozlael))***
