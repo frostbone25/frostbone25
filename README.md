@@ -46,6 +46,9 @@ Check out some of my projects!
 - **[Final Fantasy 7 Remake Intergade PC UMAP Extractor](https://github.com/frostbone25/FF7R-UMAP)**
 - **[Telltale's The Walking Dead Relight Mod](https://github.com/Telltale-Modding-Group/TTDS-Relighting)**
 
+### Physics
+- **[Unity Custom 3D Physics](https://github.com/frostbone25/Unity-Custom-3D-Physics)**
+
 <!--### Restoration
 - **[Unity 2.6 FPS Tutorial Restored](https://github.com/frostbone25/Unity-FPS-Tutorial-Restored)**
 -->
