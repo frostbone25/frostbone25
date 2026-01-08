@@ -20,7 +20,7 @@ Furthermore, proficient in 3D Modeling and Rendering, leveraging Autodesk Maya. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostbone25&layout=compact&card_width=100)
 
-Check out some of my projects!
+Check out my [blog](https://frostbone25.github.io/), and some of my projects!
 
 ### Graphics Programming
 - **[Unity Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)**
