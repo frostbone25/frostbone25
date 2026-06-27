@@ -35,6 +35,7 @@ Furthermore, proficient in 3D Modeling and Rendering, leveraging Autodesk Maya. 
 - **[Unity Planar Shadows](https://github.com/frostbone25/Unity-Planar-Shadows)** ***(Originally by [ozlael](https://github.com/ozlael))***
 
 ### Modding
+- **[Shader Injector (Final Fantasy 7 Rebirth Mod)](https://github.com/frostbone25/ShaderInjector)**
 - **[Telltale Mesh (.d3dmesh) Converter](https://github.com/Telltale-Modding-Group/D3DMESH-Converter)**
 - **[Telltale Texture (.d3dtx) Converter](https://github.com/Telltale-Modding-Group/DDS-D3DTX-Converter)**
 - **[Telltale WalkBox (.wbox) Converter](https://github.com/Telltale-Modding-Group/WalkBoxes-Converter)**
